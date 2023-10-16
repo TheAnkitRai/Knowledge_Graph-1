@@ -1,6 +1,6 @@
 # Knowledge Graph From Text Using SpaCy
 
-- *This notebook describes the construction of Knowledge Graph using SpaCy.
+*- This notebook describes the construction of Knowledge Graph using SpaCy.
 
   - *Import the required libraries.
   - *Get the required data.
